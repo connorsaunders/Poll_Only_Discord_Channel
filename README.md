@@ -1,4 +1,4 @@
-# Discord Poll Bot
+# Discord Poll Bot🤖
 
 This bot ensures that only messages starting with `/poll` are allowed in a specific channel of your Discord server. All other messages are automatically deleted to maintain the channel strictly for polls. (Currently hosted on AWS EC2)
 
